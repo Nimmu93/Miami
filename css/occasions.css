@@ -1,0 +1,57 @@
+.seating_details {
+
+    width:580px;
+    margin-top:15px;
+    background-color:#ebebeb;
+    border:1px #dddddd solid;
+}
+
+.seating_table {
+    width: 580px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:11px;
+    text-transform:uppercase;
+    text-align:center;
+    height:110px;
+    color:#999;
+    font-weight:bold;
+}
+
+.seating_text
+{
+    text-align: left;
+    width: 200px;
+}
+
+.seating_table th {
+    color:#a03731;
+}
+
+.table_details {
+    float:left;
+    width:200px;
+    margin-top:15px;
+    margin-left:10px;
+}
+
+.tables_table {
+    width:100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:11px;
+    text-transform:uppercase;
+    text-align:center;
+    height:110px;
+    color:#777;
+}
+
+span.seating_number {
+    color:#a03731;
+}
+
+span.seating_name {
+    color:#777;
+    font-weight: normal;
+    display: block;
+    width: 100px;
+    float: left;
+}
